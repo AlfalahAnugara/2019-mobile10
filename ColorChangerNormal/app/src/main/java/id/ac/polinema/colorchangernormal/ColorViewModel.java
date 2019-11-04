@@ -9,10 +9,10 @@ import androidx.lifecycle.AndroidViewModel;
 
 public class ColorViewModel extends AndroidViewModel {
 
-    ConstraintLayout rootView;
-    Button btnChangeColor;
-    // Tambahkan ViewModel
-    ColorViewModel colorViewModel;
+//    ConstraintLayout rootView;
+//    Button btnChangeColor;
+//    // Tambahkan ViewModel
+//    ColorViewModel colorViewModel;
 
     private int color = 0xfff ;
 
