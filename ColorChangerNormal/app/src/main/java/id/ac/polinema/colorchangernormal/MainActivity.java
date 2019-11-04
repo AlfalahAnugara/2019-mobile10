@@ -41,7 +41,7 @@ public class MainActivity extends AppCompatActivity {
 			}
 		});
 
-		// Tambahkan event klik pada tombol
+		
 	}
 
 	private int generateRandomColor(){
